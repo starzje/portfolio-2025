@@ -65,7 +65,7 @@ export default function Hero() {
                   <a
                     className="btn text-white bg-gradient-to-t from-slate-900 to-slate-700 hover:to-slate-800 rounded-lg w-full shadow-lg "
                     href="#projects">
-                    Finished projects
+                    Featured projects
                   </a>
                 </div>
               </div>
