@@ -10,7 +10,7 @@ export default function Hero() {
   return (
     <section className="relative overflow-hidden">
       {/* Top portion for the grid only */}
-      <div className="absolute top-0 left-0 right-0 h-[400px] md:h-[520px]  z-10 pointer-events-auto [mask-image:linear-gradient(to_bottom,_white_70%,_transparent)]">
+      <div className="absolute top-0 left-0 right-0 h-[400px] md:h-[500px]  z-10 pointer-events-auto [mask-image:linear-gradient(to_bottom,_white_70%,_transparent)]">
         <InteractiveGridPattern
           className=" w-full  h-full  pointer-events-none  opacity-30  [mask-image:radial-gradient(400px_circle_at_center,white,transparent)]"
           width={30}
